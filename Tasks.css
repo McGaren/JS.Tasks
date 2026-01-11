@@ -34,3 +34,21 @@ li{
     padding: 10px;
     font-size: 18px;
 }
+.completed{
+    text-decoration: line-through;
+    color: gray;
+    background-color: #e2ef3e;
+}
+.delete-btn{
+    float: right;
+    background-color: #e60a20;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}   
+.delete-btn:hover{
+    background-color: #1cac09;
+}
