@@ -6,11 +6,11 @@ body{
     margin-top: 50px;
 }
 .container{
-    background-color: lightsalmon;
+    background-color: rgb(26, 226, 216);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    width: 350px;
+    width: 500px;
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ input{
     border-radius: 4px;
 }
 button:hover{
-    background-color: #218838;
+    background-color: #ee0914;
 }
 ul{
     list-style-type: none;
@@ -36,8 +36,8 @@ li{
 }
 .completed{
     text-decoration: line-through;
-    color: gray;
-    background-color: #e2ef3e;
+    color: rgb(247, 242, 242);
+    background-color: #8f19a7;
 }
 .delete-btn{
     float: right;
@@ -50,5 +50,5 @@ li{
     font-size: 12px;
 }   
 .delete-btn:hover{
-    background-color: #1cac09;
+    background-color: #542bb4;
 }
